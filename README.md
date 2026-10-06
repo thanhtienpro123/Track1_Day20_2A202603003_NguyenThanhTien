@@ -40,15 +40,4 @@ Track1_Day20_2A202603003_NguyenThanhTien/
 - Bộ tệp được lưu trong repository này. Chưa bật GitHub Pages hoặc kiểm chứng quyền xem công khai. Link tương đối ở trên có thể dùng khi người xem có quyền truy cập repository.
 - Đề bài yêu cầu học viên tự chọn core action, cadence, metric hypothesis, rationale và reflection. Bản này được AI hỗ trợ soạn toàn bộ theo yêu cầu người dùng; cần học viên rà soát và tự xác nhận các quyết định trước khi nộp. Xem [AI Support Log](./ai-support-log.md).
 
-### Checklist còn lại trước khi nộp
 
-- [ ] Học viên xác nhận hoặc sửa core action, cadence và metric hypothesis.
-- [ ] Học viên bổ sung reflection và ghi lại những quyết định thực sự tự thay đổi.
-- [ ] Kiểm tra link bằng tài khoản người xem hoặc cửa sổ ẩn danh.
-
-## Cập nhật cách trình bày
-
-- Đổi tên ứng dụng thành **Stocklens** theo yêu cầu học viên.
-- Q trong bản trước là ký hiệu cho một lượt đánh giá đạt chuẩn (qualified); bản mới giải thích rõ và dùng tên đầy đủ.
-- Mỗi công thức tỷ lệ đều giải thích A, B, C trước khi viết **A = (B / C) × 100%**. Chỉ số trung bình dùng **A = B / C**; chỉ số đếm và trung vị có cách tính phù hợp riêng.
-- Tên sự kiện và thông tin cần lưu được viết bằng tiếng Việt, không dùng mã lập trình trong phần trình bày.
